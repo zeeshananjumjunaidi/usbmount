@@ -13,7 +13,7 @@ Package: usbmount
 Architecture: all
 Depends:
  lockfile-progs,
- udev,
+ udev,ntfs-3g,
  ${misc:Depends}
 Recommends:
  pmount
