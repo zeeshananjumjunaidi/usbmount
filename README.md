@@ -257,4 +257,4 @@ sudo dpkg-buildpackage -us -uc -b
 ```
  ## Whats New
  
- This project repository only contains ntfs drive support and all features and configurations are same as base project.
+ This project repository add ntfs drive support and all features and configurations are same as base project.
